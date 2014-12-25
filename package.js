@@ -1,7 +1,7 @@
 Package.describe({
   version: '0.0.28',
   name: 'gliese:cfs-base',
-  summary: 'Gliese flavour of the CollectionFS base package',
+  summary: 'Gliese flavour of the CollectionFS base package (INTERNAL USE ONLY)',
   git: 'https://github.com/gliesesoftware/cfs-base.git'
 });
 
