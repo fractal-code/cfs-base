@@ -1,8 +1,8 @@
 Package.describe({
-  version: '0.0.27',
-  name: 'cfs:base-package',
-  summary: 'CollectionFS, Base package',
-  git: 'https://github.com/CollectionFS/Meteor-cfs-base-package.git'
+  version: '0.0.28',
+  name: 'gliese:cfs-base',
+  summary: 'Gliese flavour of the CollectionFS base package',
+  git: 'https://github.com/gliesesoftware/cfs-base.git'
 });
 
 Package.onUse(function(api) {
